@@ -5,7 +5,7 @@ const Nav = () => {
   return (
  <Container>
      <section>
-      <nav className=" cursor-pointer h p-5 flex justify-between items-center ">
+      <nav className=" cursor-pointer bg-white h p-5 flex justify-between items-center ">
         <div className="logo">
           <img src="./images/brand_logo.png" alt="logo" />
         </div>
